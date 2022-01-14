@@ -1,0 +1,119 @@
+/*ELEMENTS HTML*/
+html, body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: white;
+    font-family: 'Ubuntu Condensed', sans-serif;
+}
+
+
+h1{
+    text-align: center;
+    color:black;
+    font-size: 50 px; 
+}
+
+H2{
+    text-align: center;
+    color: palevioletred;
+    font-size:25px;
+}
+
+
+H3{
+    padding-top:70px;
+    font-size: 20px;
+}
+
+
+
+h4{
+    padding-top: 70px;
+    text-align:center;
+    color:black;
+    font-size:18px;
+}
+
+h5{
+    
+    text-align:center;
+    color:black;
+    font-size:16px;
+}
+
+/**nav-bar**/
+a{
+    color:white!important;
+    font-weight: bold;
+    text-decoration: none;
+    }
+    
+    a:hover{
+    color: #E95420!important;
+    font-weight: bold;
+    }
+
+
+/**section-1 */ 
+
+
+
+.card-text{
+margin-top: 44px;
+
+}
+
+.card-title-2{
+    margin-top:27px;
+}
+
+.card-text-2{
+    margin-top:30px;
+}
+
+
+/** section 3 caroussel */
+.container-fluid{
+margin-top: 70px;
+
+}
+
+
+
+/** section 4 formulaire de contact*/
+
+.col{
+
+    margin-top:50px
+}
+
+.col-md-6{
+    padding-top: 10px;
+}
+
+.h4-bloc4{
+    margin-top:50px
+}
+
+.col-md-2{
+    margin-top: 25px;
+    
+    }
+
+.col-md-4{
+margin-top: 25px;
+
+}
+
+
+.btn{
+    color:white!important;
+    font-weight: bold;
+    text-decoration: none;
+    }
+    
+    .btn :hover{
+    color: #E95420!important;
+    font-weight: bold;
+    }
